@@ -37,9 +37,10 @@ An interactive D&D character sheet that automatically calculates modifiers and u
 
 ## GitHub Statistics
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Argorock&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Argorock&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Argorock&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Argorock&layout=compact&theme=radical)
+
 
 ---
 
